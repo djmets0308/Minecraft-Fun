@@ -1,0 +1,8 @@
+main: me.Danny.Startool.MainStartool
+name: Startool
+version: 1.0
+author: Danny
+api-version: 1.13
+
+commands:
+  Startool:
