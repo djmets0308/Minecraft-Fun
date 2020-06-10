@@ -1,0 +1,7 @@
+main: me.Danny.HelloWorld.Main
+name: Hello
+version: 1.0.1
+author: DannyJeong
+
+commands:
+  Hello:
