@@ -1,0 +1,7 @@
+main: me.Danny.Doctor.MainDoctor
+name: Doctor
+version: 1.0
+author: Danny
+
+commands:
+  Doctor:
