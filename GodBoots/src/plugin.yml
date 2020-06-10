@@ -1,0 +1,8 @@
+main: me.Danny.GodBoots.MainGodBoots
+name: GodBoots
+version: 1.0
+author: Danny
+api-version: 1.13
+
+commands:
+  GodBoots:
