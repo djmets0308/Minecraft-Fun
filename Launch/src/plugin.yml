@@ -1,0 +1,8 @@
+main: me.Danny.Launch.MainLaunch
+name: Launch
+version: 1.0.1
+author: DannyJeong
+
+commands:
+  Launch:
+    aliases: lch
